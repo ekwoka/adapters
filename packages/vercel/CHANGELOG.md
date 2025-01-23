@@ -1,5 +1,11 @@
 # @astrojs/vercel
 
+## 8.0.5
+
+### Patch Changes
+
+- [#519](https://github.com/withastro/adapters/pull/519) [`641d7d5`](https://github.com/withastro/adapters/commit/641d7d588d2d77f519201e583f0275db4260575c) Thanks [@ascorbic](https://github.com/ascorbic)! - Updates edge middleware to support esnext syntax
+
 ## 8.0.4
 
 ### Patch Changes
