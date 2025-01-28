@@ -39,7 +39,7 @@
     "@astrojs/internal-helpers": "^0.4.2",
     "@vercel/analytics": "^1.4.1",
     "@vercel/edge": "^1.2.1",
-    "@vercel/nft": "^0.29.0",
+    "@vercel/nft": "^0.29.1",
     "esbuild": "^0.24.0",
     "fast-glob": "^3.3.3"
   },
@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@astrojs/test-utils": "workspace:*",
-    "astro": "^5.1.6",
+    "astro": "^5.1.10",
     "astro-scripts": "workspace:*",
     "cheerio": "1.0.0"
   },
